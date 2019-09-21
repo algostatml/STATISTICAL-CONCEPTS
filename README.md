@@ -13,4 +13,5 @@ and their python implementation.
 ----------------------
 ##### Evaluation Metrics | [.pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/evaluationMetric.pdf) | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/utils.py)
 
-
+----------------------
+##### Loss functions | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/Loss.py)
