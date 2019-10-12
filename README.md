@@ -15,3 +15,6 @@ and their python implementation.
 
 ----------------------
 ##### Loss functions | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/Loss.py)
+
+----------------------
+##### Kernel functions | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/kernels.py)
