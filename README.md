@@ -18,3 +18,6 @@ and their python implementation.
 
 ----------------------
 ##### Kernel functions | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/kernels.py)
+
+----------------------
+##### Kernel Methods | [pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/Kernelmethods.pdf)
