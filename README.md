@@ -16,6 +16,8 @@ and their python implementation.
 ##### Classification is a supervised machine learning approach to categorizing data into distinct number of classes where we can assign label to each class
 ----------------------
 ##### Model Validation | [.pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/ModelValidation.pdf) | code
+
+##### Model validation is an essential and perhaps the most important of machine learning process. This is because it helps in checking the stability of the model and stops it from overfitting or underfitting on training datasets.
 ----------------------
 ##### Evaluation Metrics | [.pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/evaluationMetric.pdf) | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/utils.py)
 
