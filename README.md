@@ -21,6 +21,9 @@ and their python implementation.
 ----------------------
 ##### Evaluation Metrics | [.pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/evaluationMetric.pdf) | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/utils.py)
 
+##### Model/hypothsesis evaluation is a machine learning approach for assessing the performance of an algorithm on a dataset. The objective is to reduce the error between actual data and prediction.
+
+##### 
 ----------------------
 ##### Loss functions | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/Loss.py)
 
