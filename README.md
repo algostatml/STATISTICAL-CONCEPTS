@@ -12,6 +12,8 @@ and their python implementation.
 ##### Regression models make use of input data attributes or features (explanatory or independent variables) and their corresponding continuous numeric output values (dependent or outcome variable) to learn specific relationships and associations between the inputs and their corresponding outputs.
 ----------------------
 ##### Classification | [.pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/Classification.pdf) | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/CLASSIFICATION/LogisticRegression.py)
+
+##### Classification is a supervised machine learning approach to categorizing data into distinct number of classes where we can assign label to each class
 ----------------------
 ##### Model Validation | [.pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/ModelValidation.pdf) | code
 ----------------------
