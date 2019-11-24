@@ -25,10 +25,12 @@ and their python implementation.
 
 ##### 
 ----------------------
-##### Loss functions | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/Loss.py)
+##### Activation and Cost functions | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/Loss.py)
+##### Activation and Cost functions used in MAchine/Deep Learning models inlcuding Sigmoid, Relu (Rectified Linear Unit), LeakyRelu, Hinge loss.
 
 ----------------------
 ##### Kernel functions | [code](https://github.com/algostatml/SUPERVISED-ML/blob/master/Utils/kernels.py)
-
+##### Module containing frequently used machine learning kernels. Including multiple kernel methods used in our recently concluded paper.
 ----------------------
 ##### Kernel Methods | [pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/Kernelmethods.pdf)
+##### Repo of advance machine learning methods based on kernel learning. Implement kernel methods for Principal Component Analysis (PCA), Kmeans, Logistic Regression and Support Vector Data Description.
