@@ -34,3 +34,7 @@ and their python implementation.
 ----------------------
 ##### Kernel Methods | [pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/Kernelmethods.pdf)
 ##### Repo of advance machine learning methods based on kernel learning. Implement kernel methods for Principal Component Analysis (PCA), Kmeans, Logistic Regression and Support Vector Data Description.
+
+----------------------
+##### Variational Autoencoder (VAE) | [pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/VAE_ELBO_DERIVATION.pdf)
+##### Mathematical details behind Variational AutoEncoder method and a derivation of Evidence lower bounds (ELBO) both for Gaussian distributions and Inverse-Wishart distributions.
