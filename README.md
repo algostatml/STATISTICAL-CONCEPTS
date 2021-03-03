@@ -37,4 +37,4 @@ and their python implementation.
 
 ----------------------
 ##### Variational Autoencoder (VAE) | [pdf](https://github.com/algostatml/STATISTICAL-CONCEPTS/blob/master/PAPERS/VAE_ELBO_DERIVATION.pdf)
-##### Mathematical details behind Variational AutoEncoder method and a derivation of Evidence lower bounds (ELBO) both for Gaussian distributions and Inverse-Wishart distributions.
+##### Mathematical details behind Variational AutoEncoder method and a derivation of Evidence lower bounds (ELBO) for Gaussian distributions and Inverse-Wishart distributions.
